@@ -5,9 +5,9 @@
   
   * The __rule__ of set game can be checked out [HERE](https://en.wikipedia.org/wiki/Set_(game))
   
-  _NOTE:_
+  **_NOTE:_**
 >     For convenience, the striped card would be represented by adding transparency for the same 
-      color. 
+>     color. 
    
  
   
