@@ -1,7 +1,7 @@
 # Set Game
 
 ### Description:
-  * It's my first iOS app to practice MVC model in swift.
+  * It's my first iOS app to practice MVC model in swift programming language.
   
   * The __rule__ of set game can be checked out [HERE](https://en.wikipedia.org/wiki/Set_(game))
   
